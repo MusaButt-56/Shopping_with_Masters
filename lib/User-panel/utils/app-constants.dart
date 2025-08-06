@@ -12,7 +12,7 @@ class AppConstant {
 
   //stripe
   static String appStripePublishableKey =
-      "pk_test_51OG4VgFGgW2FUn1jWkkmPmeEa47AMmvO4kJbtdCVNo0irlSfyKmMLQ8HZBiKP1LH88S6vLwEtJ4HAnWC49YSskaI00DpG0T9hc";
+      "your key";
   static String appStripeSecretKey =
-      "sk_test_51OG4VgFGgW2FUn1jPFGCm6gAyqejLpZUaZqP1AosngXsKW6QujcsR8rgQCban2CWR4HKlFizB1CRKkUuoncqumzu00WI4tUKtD";
+      "your key";
 }
